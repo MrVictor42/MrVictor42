@@ -19,7 +19,7 @@
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://blog.knoldus.com/wp-content/uploads/2020/06/python-django-1024x341.png"></a></code>
-<code><a href="https://kotlinlang.org/" target="_blank"><img height="50" src="https://miro.medium.com/max/1400/1*c-dfNp_RM7MLP95LhnAwWA.png"></a></code>
+<code><a href="https://kotlinlang.org/" target="_blank"><img height="50" src="https://cafeinacodificada.com.br/wp-content/uploads/2019/02/kotlin.jpg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://kubernetes.io/" target="_black"><img height="50" src="https://www.pngkey.com/png/full/80-803470_vector-javascript-html5-css3-transparent-html-css-js.png"></a></code>
 
